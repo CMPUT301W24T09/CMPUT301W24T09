@@ -1,6 +1,7 @@
 package com.example.project;
 
 public abstract class Shape {
+
     protected int x;
     protected int y;
 
@@ -8,4 +9,5 @@ public abstract class Shape {
         this.x = x;
         this.y = y;
     }
+    public String colour = "Blue";
 }
