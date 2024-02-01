@@ -9,6 +9,7 @@ public abstract class Shape {
         this.y = y;
     }
 
+
     public String color = "red";
 
 }
