@@ -10,8 +10,6 @@ public abstract class Shape {
         this.y = y;
     }
 
-    String color = "$PUT_YOUR_CHOICE_OF_COLOR";
-
 
     
 }
